@@ -44,11 +44,11 @@
 ## Heat Treatment of 3D printed part
 ![123_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/22c2fbe1-2159-46bf-b6aa-d7704484aa8a)
 ![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
-![Screenshot 2023-05-29 082300](https://github.com/ssnithyaasri/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119122478/96d03f65-8be0-4a4a-8faf-af8b4b97b48c)
 
 ## Output:
 ![Screenshot 2023-05-29 082242](https://github.com/ssnithyaasri/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119122478/48237b8a-0739-4bc8-9b31-c22678ebc403)
-![Uploading Screenshot 2023-05-29 082251.png…]()
+![Screenshot 2023-05-29 082300](https://github.com/ssnithyaasri/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119122478/96d03f65-8be0-4a4a-8faf-af8b4b97b48c)
+
 
 
 ### Name:NITHYA SRI S S
